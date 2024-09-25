@@ -1,4 +1,4 @@
-# Individuell inlämningsuppgift: AirBeans Prototyp
+# UI - AirBeans Prototyp
 
 ## Bakgrund
 I en stad full av kaffeentusiaster, finns det ett företag som heter "AirBeans". 
